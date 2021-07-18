@@ -23,3 +23,6 @@ operacion = numero_1 + numero_2
 print("La suma de las variables es:" , operacion)
 
 # Repita el procedimiento para realizar la resta
+
+operacion = numero_1 - numero_2
+print("La resta de las variables es:" , operacion)
