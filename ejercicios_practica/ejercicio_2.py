@@ -28,8 +28,46 @@ numero_2 = int(input())
 
 # Suma
 
+print('Ingrese por consola el primer número decimal a operar:')
+numero_1 = int(input())
+
+print('Ingrese por consola el segundo número decimal a operar:')
+numero_2 = int(input())
+operacion = numero_1 + numero_2
+print("El resultado de sumar", numero_1 , "y" , numero_2 ,"es: ", operacion)
+
 # Resta
+
+print('Ingrese por consola el primer número decimal a operar:')
+numero_1 = int(input())
+
+print('Ingrese por consola el segundo número decimal a operar:')
+numero_2 = int(input())
+operacion = numero_1 - numero_2
+print("El resultado de restar ", numero_1 , "y" , numero_2 ,"es: ", operacion)
 
 # División
 
+print('Ingrese por consola el primer número decimal a operar:')
+numero_1 = int(input())
+
+print('Ingrese por consola el segundo número decimal a operar:')
+numero_2 = int(input())
+
+operacion = numero_1 / numero_2
+
+print("El resultado de dividir", numero_1 , "y" , numero_2 ,"es: ", operacion)
+
+
 # Multiplicación
+
+print('Ingrese por consola el primer número decimal a operar:')
+numero_1 = int(input())
+
+print('Ingrese por consola el segundo número decimal a operar:')
+numero_2 = int(input())
+operacion = numero_1 * numero_2
+
+print("El resultado de multiplicar", numero_1 , "y" , numero_2 ,"es: ", operacion)
+
+
