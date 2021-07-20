@@ -38,3 +38,14 @@ Cualquier duda con estos métodos pueden consultarla por el campus
 
 print('Ahora si! buena suerte')
 # Empezar aquí la resolución del ejercicio
+
+print("Ingrese el nombre completo")
+nombcom=str(input())
+
+print("Nombre completo en minusculas")
+print nombcomp.lower()
+print("Nombre completo en Mayusculas")
+print nombcomp.upper()
+print("Nombre completo la primera letra en Mayuscula")
+print nombcomp.capitalize()
+
