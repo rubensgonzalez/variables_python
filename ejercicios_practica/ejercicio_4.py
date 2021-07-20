@@ -24,5 +24,5 @@ palabra_3 = str(input())
 # Ejemplo: Alumbrado, barrido y limpieza --> ABL
 # Imprimir el resultado en pantalla
 
-acronimo= palabra_1[1]+palabra_2[1]+palabra_3[1]
+acronimo= palabra_1[0]+palabra_2[0]+palabra_3[0]
 print("El acronimo de las tres palabras ingresadas es:", acronimo)
