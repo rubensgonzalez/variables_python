@@ -49,12 +49,12 @@ print('Jugando con texto')
 
 print("Ingrese el Nombre completo del Padre (Apellido, Nombre)")
 padre= str(input())
-apellido,nombre=padre.split(" , ")
+apellido,nombre=padre.split(",")
 apellido1= apellido
 
 print("Ingrese el nombre de la Madre")
 madre= str(input())
-apellido2,nombre2=madre.split(" , ")
+apellido2,nombre2=madre.split(",")
 apmadre=apellido2
 
 print("Ingrese el nombre del Hijo/a")
