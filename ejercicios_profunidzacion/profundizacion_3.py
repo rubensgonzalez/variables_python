@@ -43,9 +43,9 @@ print("Ingrese el nombre completo")
 nombcom=str(input())
 
 print("Nombre completo en minusculas")
-print nombcomp.lower()
+print (nombcomp.lower())
 print("Nombre completo en Mayusculas")
-print nombcomp.upper()
+print (nombcomp.upper())
 print("Nombre completo la primera letra en Mayuscula")
-print nombcomp.capitalize()
+print (nombcomp.capitalize())
 
